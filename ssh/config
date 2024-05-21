@@ -1,0 +1,25 @@
+Host system23
+	User optos
+	HostName 172.20.25.192
+	
+Host system5
+	User optos
+	HostName 172.20.25.191
+
+Host system607
+	User optos
+	Hostname 172.20.25.235
+
+Host 10141
+	User optos
+	HostName 172.20.25.227
+
+Host 16708
+	User optos
+	HostName 172.20.25.248
+
+Host 22002
+	User optos
+	HostName 172.20.25.244
+
+
