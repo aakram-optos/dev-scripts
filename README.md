@@ -1,1 +1,3 @@
-scripts for myself 
+# Dev Scripts
+
+usefullish scripts for myself
